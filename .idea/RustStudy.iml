@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/guessingGame/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_Functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_VarAndMut/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/guessingGame/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_Functions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_VarAndMut/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
